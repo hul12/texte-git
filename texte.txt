@@ -1,2 +1,6 @@
+<<<<<<< HEAD
  dpssfjq oîj hello every one
+=======
+hello every oneddd
+>>>>>>> feature2
 
